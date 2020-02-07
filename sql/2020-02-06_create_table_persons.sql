@@ -3,3 +3,5 @@ CREATE TABLE public.person (
 	nombre varchar(80) NOT NULL,
 	apellido varchar(80) NOT NULL
 );
+
+-- trigger push command
